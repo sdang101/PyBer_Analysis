@@ -14,7 +14,7 @@ The purpose of this assignment is to practice using matplotlib to visualize data
 
 ## Steps
 ![0](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/0.png)
-![1] https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/1.png)
+![1](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/1.png)
 ![2](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/2.png)
 ![3](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/3.png)
 ![4](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/4.png)
