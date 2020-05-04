@@ -47,6 +47,8 @@ Looking at the multipleline plot, it shows the total fare by city type from 01/0
 Some challenges I encountered was downloading the ride_data.csv file. The ride_id colunm came out in sciencefic notation without the percise ride_ids. I had to keep downloading the file until I was given the percise ride_ids. I then checked it in Jupyter Notebook to see that the "correct" ride_data.csv was read.
 
 ## Farther Steps
+It seems that cities with the most drivers and riders have the lowest average fare and highest total fares. To address this disparity, the CEO can decrease supply of drivers to increase the average fare in urban cities or giving a promotion in suburban and rural cities by giving those areas free first ride to the riders.
 
+To gain more insight, it would be useful to get data on how far each rider is going for each city type along with how much that fare is, what time of day (morning, afternoon, evening, night) each rider is getting a ride share along with how much that fare costs. Maybe this will explain behaviors of the different type of cities of when riders order a ride and whether the cost fluctates depending on the time of say and how far/ how much each rider travels in the different city types
 
-
+To perform this analyses, I use a scatterplot to plot the distance each rider travels for each type of city against how much those fare for each city type. I will also use another scatterplot to plot the time of day a rider rides in each city type verses the total fare for each city type.
