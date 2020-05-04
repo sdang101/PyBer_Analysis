@@ -39,4 +39,14 @@ _ Urban cities has the lowest average fare per ride ($24.53) and drivers ($16.57
 
 ![Challenge_Fig](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/Challenge_Fig.png)
 
-Looking at the multipleline plot, it shows the total fare by city type from 01/01/2019 to 04/28/2019
+Looking at the multipleline plot, it shows the total fare by city type from 01/01/2019 to 04/28/2019. - Urban comes out on top consistently with peaks in at the beginnig and end of March and 
+- Suburban comes out with the second most fares with a peak at the end of Feburary and a low point in April
+- Rurual comes out with the lowest fares with a peak ath the end of February and in April.
+
+## Challenges
+Some challenges I encountered was downloading the ride_data.csv file. The ride_id colunm came out in sciencefic notation without the percise ride_ids. I had to keep downloading the file until I was given the percise ride_ids. I then checked it in Jupyter Notebook to see that the "correct" ride_data.csv was read.
+
+## Farther Steps
+
+
+
