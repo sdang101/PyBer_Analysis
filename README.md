@@ -1,7 +1,5 @@
 # PyBer_Analysis
 
-# PyBer_Analysis
-
 ## Project Overview
 The purpose of this assignment is to practice using matplotlib to visualize data and pandas to create series and dataframes in Jupyter Notebook by fullfilling V.Iualize's request to create:
 
