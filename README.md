@@ -15,7 +15,6 @@ The purpose of this assignment is to practice using matplotlib to visualize data
 ## Steps
 To create the summarize dataframe of the ride-share data, first import necessary dependencies, load the city_data.csv and ride_data.csv, create dataframes for each file and a combine the two DataFrames into one.
 ![Dependencies](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/Dependencies.png)
-
 ![Combined_Dataframe](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/Combined_Dataframe.png)
 
 Use the merged DataFrame to get total rides, total drivers, and total fares for each city type.
