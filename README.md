@@ -13,12 +13,12 @@ The purpose of this assignment is to practice using matplotlib to visualize data
 - Software: Jupyter Notebook, Python 3.8.2
 
 ## Steps
-![0] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/0.png)
-![1] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/1.png)
-![2] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/2.png)
-![3] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/3.png)
-![4] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/4.png)
-![5] (https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/5.png)
+![0](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/0.png)
+![1] https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/1.png)
+![2](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/2.png)
+![3](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/3.png)
+![4](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/4.png)
+![5](https://github.com/sdang101/PyBer_Analysis/blob/master/analysis/5.png)
 
 Looking at the summarized DataFrame total rides and total driver:
 - Urban cities has the most rides (1,625) and drivers (2,405).
